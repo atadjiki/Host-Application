@@ -1,0 +1,9 @@
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\bin\Debug\Synth Tester.exe.config
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\bin\Debug\Synth Tester.exe
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\bin\Debug\Synth Tester.pdb
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\bin\Debug\Host_Alpha.exe
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\bin\Debug\NAudio.dll
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\bin\Debug\Host_Alpha.pdb
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\obj\Debug\Synth Tester.csprojResolveAssemblyReference.cache
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\obj\Debug\Synth Tester.exe
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\obj\Debug\Synth Tester.pdb

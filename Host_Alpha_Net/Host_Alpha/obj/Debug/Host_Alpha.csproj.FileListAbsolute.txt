@@ -1,0 +1,57 @@
+C:\Users\Mike\Desktop\test cs to cpp\Host_Alpha\Host_Alpha\bin\Debug\Host_Alpha.exe.config
+C:\Users\Mike\Desktop\test cs to cpp\Host_Alpha\Host_Alpha\bin\Debug\Host_Alpha.exe
+C:\Users\Mike\Desktop\test cs to cpp\Host_Alpha\Host_Alpha\bin\Debug\Host_Alpha.pdb
+C:\Users\Mike\Desktop\test cs to cpp\Host_Alpha\Host_Alpha\obj\Debug\Host_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\test cs to cpp\Host_Alpha\Host_Alpha\obj\Debug\Host_Alpha.exe
+C:\Users\Mike\Desktop\test cs to cpp\Host_Alpha\Host_Alpha\obj\Debug\Host_Alpha.pdb
+C:\Users\Mike\Desktop\Host_Alpha\Host_Alpha\bin\Debug\Host_Alpha.exe.config
+C:\Users\Mike\Desktop\Host_Alpha\Host_Alpha\obj\Debug\Host_Alpha.exe
+C:\Users\Mike\Desktop\Host_Alpha\Host_Alpha\obj\Debug\Host_Alpha.pdb
+C:\Users\Mike\Desktop\Host_Alpha\Host_Alpha\bin\Debug\Host_Alpha.exe
+C:\Users\Mike\Desktop\Host_Alpha\Host_Alpha\bin\Debug\Host_Alpha.pdb
+C:\Users\Mike\Desktop\Host_Alpha\Host_Alpha\obj\Debug\Host_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.exe.config
+C:\Users\Mike\Desktop\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.exe
+C:\Users\Mike\Desktop\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.pdb
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.exe.config
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.exe
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.pdb
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.exe
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.pdb
+C:\Users\budge\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.exe.config
+C:\Users\budge\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.exe
+C:\Users\budge\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.pdb
+C:\Users\budge\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\budge\Desktop\Audio_Mobile_Alpha_repo\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.exe
+C:\Users\budge\Desktop\Audio_Mobile_Alpha_repo\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.pdb
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.exe.config
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.exe
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.pdb
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.csprojFakesResolveAssemblyReference.cache
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_repo\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_repo\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\NAudio.dll
+C:\Users\budge\Desktop\Audio_Mobile_Alpha_repo\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\NAudio.dll
+C:\Users\AlleyCat\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\AlleyCat\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.Properties.Resources.resources
+C:\Users\AlleyCat\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.csproj.GenerateResource.Cache
+C:\Users\AlleyCat\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.exe.config
+C:\Users\AlleyCat\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.exe
+C:\Users\AlleyCat\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.pdb
+C:\Users\AlleyCat\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\AlleyCat\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\NAudio.dll
+C:\Users\AlleyCat\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.exe
+C:\Users\AlleyCat\Documents\GitHub\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.pdb
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_repo\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.Properties.Resources.resources
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_repo\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.csproj.GenerateResource.Cache
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.exe
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\NAudio.dll
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.exe.config
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Host_Alpha.pdb
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.Properties.Resources.resources
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.csproj.GenerateResource.Cache
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.exe
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\obj\Debug\Host_Alpha.pdb

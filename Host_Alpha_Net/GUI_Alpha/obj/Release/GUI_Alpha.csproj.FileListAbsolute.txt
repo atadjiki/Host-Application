@@ -1,0 +1,33 @@
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.exe
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.pdb
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.exe
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.pdb
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\GUI_Alpha.exe
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\GUI_Alpha.pdb
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\Host_Alpha.exe
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\NAudio.dll
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\Host_Alpha.pdb
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.ControlPanel.resources
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.Properties.Resources.resources
+C:\Users\Mike\Desktop\Audio_Mobile_Alpha_Repo\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.csproj.GenerateResource.Cache
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\GUI_Alpha.exe
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\GUI_Alpha.pdb
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\Host_Alpha.exe
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\NAudio.dll
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\Host_Alpha.pdb
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.ControlPanel.resources
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.Properties.Resources.resources
+C:\Users\Arash\Documents\GitHub\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.csproj.GenerateResource.Cache
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\GUI_Alpha.exe
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\GUI_Alpha.pdb
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\Host_Alpha.exe
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\NAudio.dll
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\GUI_Alpha\bin\Release\Host_Alpha.pdb
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.csprojResolveAssemblyReference.cache
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.ControlPanel.resources
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.Properties.Resources.resources
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.csproj.GenerateResource.Cache
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.exe
+C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\GUI_Alpha\obj\Release\GUI_Alpha.pdb

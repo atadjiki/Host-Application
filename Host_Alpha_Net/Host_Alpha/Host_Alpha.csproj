@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9A412FB8-1895-4DF0-A0B8-BE736751361C}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Host_Alpha</RootNamespace>
+    <AssemblyName>Host_Alpha</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="NAudio">
+      <HintPath>.\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdsrSampleProvider.cs" />
+    <Compile Include="AudioListener.cs" />
+    <Compile Include="LoopStream.cs" />
+    <Compile Include="LowPassFilterSampleProvider.cs" />
+    <Compile Include="Manager.cs" />
+    <Compile Include="MelodySlot.cs" />
+    <Compile Include="Host.cs" />
+    <Compile Include="Oscillator.cs" />
+    <Compile Include="Mixer.cs" />
+    <Compile Include="PercussionManager.cs" />
+    <Compile Include="PercussionModel.cs" />
+    <Compile Include="PercussionSlot.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SamplerManager.cs" />
+    <Compile Include="SamplerModel.cs" />
+    <Compile Include="SamplerSlot.cs" />
+    <Compile Include="SineWaveProvider32.cs" />
+    <Compile Include="Slot.cs" />
+    <Compile Include="SquareWaveProvider32.cs" />
+    <Compile Include="Wave16toIeeeProvider.cs" />
+    <Compile Include="WaveProvider.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\AudioMobileHost\OscillatorLib\OscillatorLib.csproj">
+      <Project>{555d80ec-a626-4b4c-8c76-16c5f231cfb2}</Project>
+      <Name>OscillatorLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hi_Shk1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Hi_Shk2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DP_1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DP_2.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\test.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hh_open.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hh_closed.WAV" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ab2openhh.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ab2closedhh.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Snare %282%29.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PSC_Analogue_Snare_11.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Dol_H1.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cln_H3.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
