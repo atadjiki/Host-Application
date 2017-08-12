@@ -76,12 +76,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\AudioMobileHost\OscillatorLib\OscillatorLib.csproj">
-      <Project>{555d80ec-a626-4b4c-8c76-16c5f231cfb2}</Project>
-      <Name>OscillatorLib</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>

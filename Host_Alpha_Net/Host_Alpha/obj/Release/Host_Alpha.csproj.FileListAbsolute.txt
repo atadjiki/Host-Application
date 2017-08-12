@@ -28,3 +28,12 @@ C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\obj\Release
 C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\obj\Release\Host_Alpha.csproj.GenerateResource.Cache
 C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\obj\Release\Host_Alpha.exe
 C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Host_Alpha\obj\Release\Host_Alpha.pdb
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Host_Alpha\bin\Release\Host_Alpha.exe.config
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Host_Alpha\bin\Release\Host_Alpha.exe
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Host_Alpha\bin\Release\Host_Alpha.pdb
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Host_Alpha\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Host_Alpha\bin\Release\NAudio.dll
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Host_Alpha\obj\Release\Host_Alpha.Properties.Resources.resources
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Host_Alpha\obj\Release\Host_Alpha.csproj.GenerateResource.Cache
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Host_Alpha\obj\Release\Host_Alpha.exe
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Host_Alpha\obj\Release\Host_Alpha.pdb

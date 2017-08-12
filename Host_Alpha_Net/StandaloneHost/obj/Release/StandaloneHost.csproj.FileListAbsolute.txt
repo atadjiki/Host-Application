@@ -1,0 +1,5 @@
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\StandaloneHost\bin\Release\StandaloneHost.dll
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\StandaloneHost\bin\Release\StandaloneHost.pdb
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\StandaloneHost\bin\Release\NAudio.dll
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\StandaloneHost\obj\Release\StandaloneHost.dll
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\StandaloneHost\obj\Release\StandaloneHost.pdb

@@ -5,11 +5,11 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host_Alpha", "Host_Alpha\Host_Alpha.csproj", "{9A412FB8-1895-4DF0-A0B8-BE736751361C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OscillatorLib", "..\AudioMobileHost\OscillatorLib\OscillatorLib.csproj", "{555D80EC-A626-4B4C-8C76-16C5F231CFB2}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synth Tester", "Synth Tester\Synth Tester.csproj", "{0A528293-ECC1-40B9-8A2F-CA2FE58C6996}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_Alpha", "GUI_Alpha\GUI_Alpha.csproj", "{6F29C1B2-E6A1-498E-AE65-5D470BDFC681}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StandaloneHost", "StandaloneHost\StandaloneHost.csproj", "{0F6726D6-5936-41D0-8C2B-AE7871D97898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_standalone", "GUI_standalone\GUI_standalone.csproj", "{31EC48B3-2866-4F6E-9DAA-636D89E42754}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,18 +21,18 @@ Global
 		{9A412FB8-1895-4DF0-A0B8-BE736751361C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A412FB8-1895-4DF0-A0B8-BE736751361C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A412FB8-1895-4DF0-A0B8-BE736751361C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{555D80EC-A626-4B4C-8C76-16C5F231CFB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{555D80EC-A626-4B4C-8C76-16C5F231CFB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{555D80EC-A626-4B4C-8C76-16C5F231CFB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{555D80EC-A626-4B4C-8C76-16C5F231CFB2}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0A528293-ECC1-40B9-8A2F-CA2FE58C6996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0A528293-ECC1-40B9-8A2F-CA2FE58C6996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A528293-ECC1-40B9-8A2F-CA2FE58C6996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A528293-ECC1-40B9-8A2F-CA2FE58C6996}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6F29C1B2-E6A1-498E-AE65-5D470BDFC681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6F29C1B2-E6A1-498E-AE65-5D470BDFC681}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6F29C1B2-E6A1-498E-AE65-5D470BDFC681}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6F29C1B2-E6A1-498E-AE65-5D470BDFC681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F6726D6-5936-41D0-8C2B-AE7871D97898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6726D6-5936-41D0-8C2B-AE7871D97898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6726D6-5936-41D0-8C2B-AE7871D97898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6726D6-5936-41D0-8C2B-AE7871D97898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EC48B3-2866-4F6E-9DAA-636D89E42754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EC48B3-2866-4F6E-9DAA-636D89E42754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EC48B3-2866-4F6E-9DAA-636D89E42754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EC48B3-2866-4F6E-9DAA-636D89E42754}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

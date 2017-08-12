@@ -25,3 +25,11 @@ C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\bin\Relea
 C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\obj\Release\Synth Tester.csprojResolveAssemblyReference.cache
 C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\obj\Release\Synth Tester.exe
 C:\Users\AlleyCat\Desktop\New folder\Alpha\Host_Alpha_Net\Synth Tester\obj\Release\Synth Tester.pdb
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Synth Tester\bin\Release\Synth Tester.exe.config
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Synth Tester\bin\Release\Synth Tester.exe
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Synth Tester\bin\Release\Synth Tester.pdb
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Synth Tester\bin\Release\Host_Alpha.exe
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Synth Tester\bin\Release\Host_Alpha.pdb
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Synth Tester\obj\Release\Synth Tester.csprojResolveAssemblyReference.cache
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Synth Tester\obj\Release\Synth Tester.exe
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\Synth Tester\obj\Release\Synth Tester.pdb

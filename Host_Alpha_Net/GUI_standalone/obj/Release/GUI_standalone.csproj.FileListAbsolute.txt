@@ -1,0 +1,13 @@
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\obj\Release\GUI_standalone.csprojResolveAssemblyReference.cache
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\obj\Release\GUI_standalone.Properties.Resources.resources
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\obj\Release\GUI_standalone.csproj.GenerateResource.Cache
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\bin\Release\GUI_standalone.exe.config
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\obj\Release\GUI_standalone.mainMenu.resources
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\obj\Release\GUI_standalone.Synth.resources
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\bin\Release\GUI_standalone.exe
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\bin\Release\GUI_standalone.pdb
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\bin\Release\StandaloneHost.dll
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\bin\Release\NAudio.dll
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\bin\Release\StandaloneHost.pdb
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\obj\Release\GUI_standalone.exe
+C:\Users\AlleyCat\Documents\GitHub\Host-Application\Host_Alpha_Net\GUI_standalone\obj\Release\GUI_standalone.pdb
